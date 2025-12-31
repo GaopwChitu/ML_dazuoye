@@ -3,6 +3,7 @@
 这是一个基于pytorch与ReChorus框架的，机器学习论文复现+课程大作业项目
 
 原论文: [Graph Convolution Network based Recommender Systems: Learning Guarantee and Item Mixture Powered Strategy](https://proceedings.neurips.cc/paper_files/paper/2022/hash/18fd48d9cbbf9a20e434c9d3db6973c5-Abstract-Conference.html)
+
 原框架：[ReChorus](https://github.com/THUwangcy/ReChorus)
 
 关键词:
@@ -50,5 +51,6 @@ python main.py --model_name LightGCN --path ../data/ --dataset Grocery_and_Gourm
 ```
 
 - 注意: 本项目在 Windows/Nvidia GPU 上有不明bug，如用n卡加速，易出现`prediction`全`0`的情况
+
 
 
