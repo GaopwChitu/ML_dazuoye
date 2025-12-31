@@ -1,0 +1,11 @@
+﻿python==3.10.4
+torch==2.4.0+cu124
+numpy==1.23.5
+jupyter
+scikit-learn
+scipy
+ipython
+pandas
+tqdm
+pickle
+yaml
